@@ -1,2 +1,1 @@
-Hola mundo 
-Hola mundo
+"git log --online" --> muestra historial de commit
